@@ -1,0 +1,1 @@
+<?php echo apply_filters('kabir','This is Humayun Kabir');?>
