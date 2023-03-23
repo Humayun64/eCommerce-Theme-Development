@@ -10,3 +10,18 @@ Text Domain: woomart
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-section{
+    height: 50px;
+    width: 100%;
+   
+    background-color: #fad390;
+    padding: 0px 30px;
+}
+.header-right{
+    width: 20%;
+    float: right;
+}
